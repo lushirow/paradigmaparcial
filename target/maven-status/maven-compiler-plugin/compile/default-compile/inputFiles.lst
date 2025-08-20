@@ -1,0 +1,9 @@
+/workspace/src/main/java/com/ejemplo/tienda/modelo/pagos/Cheque.java
+/workspace/src/main/java/com/ejemplo/tienda/modelo/Pago.java
+/workspace/src/main/java/com/ejemplo/tienda/modelo/Articulo.java
+/workspace/src/main/java/com/ejemplo/tienda/App.java
+/workspace/src/main/java/com/ejemplo/tienda/modelo/DetallePedido.java
+/workspace/src/main/java/com/ejemplo/tienda/modelo/Pedido.java
+/workspace/src/main/java/com/ejemplo/tienda/modelo/pagos/Efectivo.java
+/workspace/src/main/java/com/ejemplo/tienda/modelo/pagos/Tarjeta.java
+/workspace/src/main/java/com/ejemplo/tienda/modelo/Cliente.java

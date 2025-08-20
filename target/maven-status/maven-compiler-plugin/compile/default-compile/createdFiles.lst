@@ -1,0 +1,9 @@
+com/ejemplo/tienda/modelo/Pago.class
+com/ejemplo/tienda/App.class
+com/ejemplo/tienda/modelo/Pedido.class
+com/ejemplo/tienda/modelo/Cliente.class
+com/ejemplo/tienda/modelo/pagos/Tarjeta.class
+com/ejemplo/tienda/modelo/pagos/Efectivo.class
+com/ejemplo/tienda/modelo/Articulo.class
+com/ejemplo/tienda/modelo/pagos/Cheque.class
+com/ejemplo/tienda/modelo/DetallePedido.class
